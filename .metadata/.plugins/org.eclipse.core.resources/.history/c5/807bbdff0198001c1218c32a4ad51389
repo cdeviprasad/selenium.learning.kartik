@@ -1,0 +1,15 @@
+
+public class Test {
+	
+	public void Method1() {
+		
+		System.out.println("This is first method ......!");
+		System.out.println();
+		syso
+	}
+
+	public static void main(String[] args) {
+		System.out.println("Hello World....!");
+	}
+
+}
